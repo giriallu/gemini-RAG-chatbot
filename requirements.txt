@@ -1,0 +1,14 @@
+langchain~=0.2.15
+langchain-chroma
+chromadb
+streamlit~=1.38.0
+google-generativeai 
+langchain-google-genai~=1.0.10
+python-dotenv~=1.0.1
+pypdf
+langchain-community~=0.2.14
+BeautifulSoup4~=4.12.3
+protobuf~=4.25.4
+langchain-core~=0.2.36
+langchain-text-splitters~=0.2.2
+requests~=2.32.3
