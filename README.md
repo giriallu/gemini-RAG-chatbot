@@ -22,12 +22,14 @@ Uncover the magic behind the scenes with LangChain integration, adding a unique 
     pip3 install -r requirements.txt
     
     ```
-2. **Run the Code:**
+2.  **Run the Code: to webscrape the url and download docs into docs folder **
  ```bash
 
  python3  download_docs.py
 ```
-3. **Run the Code:**
+3. ** update GOOGLE_API_KEY in .env file **
+4. ** update persistant directory in code for chroma db (RAG_Working) persist_directory:"XXX"
+3. ** Run the Code:**
  ```bash
  
  streamlit run RAG_Working.py
